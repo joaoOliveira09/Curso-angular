@@ -1,0 +1,14 @@
+h2{
+    color: red;
+}
+h3{
+    background-color: purple;
+}
+.title{
+    background: black;
+    color: aqua;
+    padding: 15px;
+}
+p{
+  padding: 10px;  
+}
